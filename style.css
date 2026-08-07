@@ -429,3 +429,23 @@ font-size:30px;
 }
 
 }
+.stats{
+
+display:flex;
+justify-content:center;
+gap:60px;
+
+padding:100px 20px;
+
+background:#8B5E3C;
+color:white;
+
+text-align:center;
+
+}
+
+.stat-box h2{
+
+font-size:55px;
+
+}
